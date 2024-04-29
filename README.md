@@ -70,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # moringa-phase-2-code-challenges
 # moringa-phase-2-code-challenges
+# phase-2-code-challenges-bank-of-flatiron
