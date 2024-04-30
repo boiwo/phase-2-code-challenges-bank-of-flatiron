@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.fcf16f1c.js",
-    "static/js/453.d3943c81.chunk.js": "/react-gh-pages/static/js/453.d3943c81.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.fcf16f1c.js.map": "/react-gh-pages/static/js/main.fcf16f1c.js.map",
-    "453.d3943c81.chunk.js.map": "/react-gh-pages/static/js/453.d3943c81.chunk.js.map"
+    "main.css": "/phase-2-code-challenges-bank-of-flatiron/static/css/main.e49553ea.css",
+    "main.js": "/phase-2-code-challenges-bank-of-flatiron/static/js/main.3dbde2f5.js",
+    "static/js/453.d3943c81.chunk.js": "/phase-2-code-challenges-bank-of-flatiron/static/js/453.d3943c81.chunk.js",
+    "index.html": "/phase-2-code-challenges-bank-of-flatiron/index.html",
+    "main.e49553ea.css.map": "/phase-2-code-challenges-bank-of-flatiron/static/css/main.e49553ea.css.map",
+    "main.3dbde2f5.js.map": "/phase-2-code-challenges-bank-of-flatiron/static/js/main.3dbde2f5.js.map",
+    "453.d3943c81.chunk.js.map": "/phase-2-code-challenges-bank-of-flatiron/static/js/453.d3943c81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fcf16f1c.js"
+    "static/css/main.e49553ea.css",
+    "static/js/main.3dbde2f5.js"
   ]
 }
