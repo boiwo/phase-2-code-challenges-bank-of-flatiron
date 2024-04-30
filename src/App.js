@@ -1,26 +1,20 @@
-import logo from './logo.svg';
-import './App.css'
+import React from "react";
+import AccountContainer from "./components/AccountContainer";
 
-function App(){
+function App() {
   return (
-    <div className='App'>
-      <img src= {logo} className='App-logo' alt='logo' />
-      <p>
-        Edit <code>src/App.js</code> and save to reloaded
-      </p>
-      <a
-        className = "App-link"
-        href = "href://react.js.org"
-        target = "-bank"
-        rel= "nooper noreferrer"
-        >
-          Learn React
-      </a>
-    </div>
-  )
+    <div className="ui raised segment">
+      <div className="ui segment green inverted">
+        <h2>The Royal Bank of Flatiron</h2>
+      </div>
+      <AccountContainer />
 
- 
+
+    </div>
+  );
 }
+
+export default App;
      
         
       
@@ -31,4 +25,3 @@ function App(){
 
 
 
-export default App;
