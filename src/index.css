@@ -12,20 +12,20 @@ input {
 body {
   margin: 0;
   padding: 0;
-  font-family: serif; 
-  align-items: center;
+  font-family: sans-serif; 
+  
 }
 
 .App {
   text-align:center;
-  text-decoration-skip: 20px;
+  
 }
 
 
 .App-header {
-  background-color:blue;
-  padding: 100px;
-  color: green;
+  background-color: #222;
+  padding: 20px;
+  color: yellow;
   
 }
 
@@ -39,4 +39,8 @@ table {
 
 th, td {
   border: 1px solid black;
+}
+p{
+  background-color: aqua;
+   color: blue;
 }
